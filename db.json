@@ -13,8 +13,8 @@
             "mobileCoverUrl": "/img/courses/desvendando.jpg",
             "externalId": "string",
             "priceOff": 0, 
-            "createdAt": "Date",
-            "updatedAt": "Date"
+            "createdAt": "2020-07-09T14:30:51.081Z",
+            "updatedAt": "2020-07-09T14:30:51.081Z"
         },
         {
             "id": 1,
@@ -29,8 +29,8 @@
             "mobileCoverUrl": "/img/courses/desvendando.jpg",
             "externalId": "string",
             "priceOff": 0, 
-            "createdAt": "Date",
-            "updatedAt": "Date"
+            "createdAt": "2020-07-09T14:30:51.081Z",
+            "updatedAt": "2020-07-09T14:30:51.081Z"
         }
     ]
 }
