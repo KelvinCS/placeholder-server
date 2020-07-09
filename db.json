@@ -1,17 +1,34 @@
 {
-    "courses": [{
-        "id": "string",
-        "externalId": "string",
-        "title": "string",
-        "subtitle": "string",
-        "description": "string",
-        "price": "number", 
-        "priceOff": "number", 
-        "type": "CourseTypesEnum",
-        "link": "string",
-        "coverUrl": "string",
-        "mobileCoverUrl": "string",
-        "createdAt": "Date",
-        "updatedAt": "Date"
-    }]
+    "courses": [
+        {
+            "id": 1,
+            "externalId": "string",
+            "title": "string",
+            "subtitle": "string",
+            "description": "string",
+            "price": "number", 
+            "priceOff": "number", 
+            "type": "CourseTypesEnum",
+            "link": "string",
+            "coverUrl": "string",
+            "mobileCoverUrl": "string",
+            "createdAt": "Date",
+            "updatedAt": "Date"
+        },
+        {
+            "id": 2,
+            "externalId": "string",
+            "title": "string",
+            "subtitle": "string",
+            "description": "string",
+            "price": "number", 
+            "priceOff": "number", 
+            "type": "CourseTypesEnum",
+            "link": "string",
+            "coverUrl": "string",
+            "mobileCoverUrl": "string",
+            "createdAt": "Date",
+            "updatedAt": "Date"
+        }
+    ]
 }
